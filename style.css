@@ -1,0 +1,337 @@
+.header
+{
+flex-direction:column;
+margin: 100px;
+}
+
+.topline{
+ word-spacing: 30px;
+ margin-left: 300px;
+
+}
+
+#space{
+margin-left: 250px;
+}
+
+#location{
+margin-left: 250px;
+color: black;
+font-size: 320%;
+}
+.press{
+    margin-left: 250px;
+    border: none;
+    background-color: none;
+    border: solid 1px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.781);
+    padding: 25px;
+
+}
+#watch{
+    display: flex;
+    float:right;
+    margin-right: 1292px;
+
+}
+
+#begin{
+    margin-left: 25px;
+    border:solid 1px;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    width: 0.5cm;
+    height: 0.5cm;
+
+}
+
+.numbers{
+   display: flex;
+   margin-left: 260px;
+   font-weight: bold;
+}
+.item{
+    margin-left: 70px;
+    
+}
+#disp{
+    margin-bottom:120px;
+    margin-top: 0.1px;
+}
+.new, .dec{
+margin-left: 150px;
+}
+
+
+
+.designs{
+    word-spacing: 80px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+#ikea{
+    font-weight: bolder;
+    font-size:xx-large;
+    color: grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#diptyque{
+    font-size: xx-large;
+    color: rgba(128, 128, 128, 0.685);
+}
+#desenio{
+    font-size: xx-large;
+    color: rgba(128, 128, 128, 0.685);
+    font: weight 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#benuta{
+    font-weight: bolder;
+    font-size:xx-large;
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+#westwinc{
+    font-size: xx-large;
+    font-weight:100px;
+    color: rgba(128, 128, 128, 0.747);
+
+}
+.potrait{
+    display: flex;
+    position: absolute;
+    margin-left: 740px;
+    height: 17cm;
+    
+
+}
+#new{
+    color: red;
+}
+.letters{
+    word-spacing: 100px;
+    margin-left: 190px;
+    margin-top: 2c
+
+}
+#saller{
+    margin-left: 190px;
+    margin-top: 100px;
+}
+.vases{
+    display: flex;
+    margin-left: 180px;
+    
+}
+.nordic, .ceramic, .large{
+    margin-left: 240px;
+}
+
+.pot{
+    margin-left: 190px;
+}
+.black, .white, .donut{
+    margin-left:140px ;
+}
+
+.vasess{
+    display: flex;
+}
+.text{
+    word-spacing: 1px;
+    margin-top: 100px;
+}
+.restyle{
+    margin-left: 480px;
+    padding: 20px;
+}
+.combination{
+display: flex;
+}
+.offer{
+    margin-left: 30px;
+    padding: 80px;
+    
+}
+#photo{
+height: 10cm;
+width: 35%;
+padding:80px;
+border: none;
+margin-left: 70px;
+}
+.shop{
+    border: solid 1px;
+    border-radius: 55px;
+    padding: 15px;
+}
+.pieces{
+display: flex;
+margin-left: 150px;
+margin-top: 100px;
+}
+.instore{
+word-spacing: 0px;
+}
+#look{
+    height: 12cm;
+    width:90%;
+    padding:90px;
+}
+h3{
+    font-size: 300%;
+    font-weight: 400;
+    
+}
+
+
+.what
+{
+    text-align: center;
+    margin-top: 2cm;
+}
+
+.four{
+   margin: 20%;
+    display: flex;
+    margin-top: 5%;
+}
+
+.vasee img{
+    width: 150px;
+  height: 150px;  
+}
+.vasee p{
+    margin-top: 20%;
+}
+#vsolid{
+    font-size: x-large;
+}
+.shieldd{
+    margin-left: 10%;
+
+}
+
+.shieldd img{
+    width: 150px;
+    height: 150px;  
+}
+.shieldd p{
+    margin-top: 20%;
+
+}
+#refund{
+    font-size: x-large;
+    margin-bottom: -29px;
+    
+}
+
+.usb{
+    margin-left: 10%;
+}
+.usb img{
+    width: 150px;
+    height: 150px;
+}
+.usb p{
+    margin-top: 20%;
+}
+#services{
+    font-size: x-large;
+}
+.gift{
+    margin-left: 10%;
+}
+.gift img{
+    width: 150px;
+    height: 150px;
+}
+.gift p{
+    margin-top: 20%;
+}
+
+#email{
+    font-size: x-large;
+}
+h4{
+    font-size: 45px;
+    font-weight: lighter;
+    margin-bottom: 5px;
+}
+#mvase{
+    width: 60%;
+    height:8cm ;
+}
+h5{
+    font-size: 150%;
+}
+.review{
+    text-align: center;
+    margin-top: auto;
+    
+}
+.whole{
+    display: flex;
+}
+.assortment{
+    width: 40%;
+    height:7cm ;
+    margin-right: 20px;
+    margin-top: 150px;
+    margin-left: 250px;
+    
+}
+.parker{
+    display: flex;
+}
+#arther{
+    width: 2cm;
+    height: 2cm;
+}
+h6{
+    display: flex;
+    font-size: 100%;
+}
+ 
+
+.distinct{
+    margin-top: 120px;
+
+    
+}
+.everything{
+    display: flex;
+    margin-top: 4cm;
+    margin-left: 150px;
+    }
+
+.customer{
+    margin-left: 1cm;
+    font-size: larger;
+    
+}
+#aid{
+    display: block;
+    text-decoration: none;
+    color: black;
+    
+}
+#aid:hover{
+    color: red;
+}
+.posts, .media, .prof{
+    margin-left: 6cm;
+    font-size: larger;
+}
+.closing{
+     display: flex;
+    justify-content: space-between;
+    
+    }
+
+
